@@ -147,11 +147,15 @@ p {
 }
 .input__form {
 	width: 343px;
+	height: 48px;
 	margin-bottom: 15px;
-	padding: 17px 0 20px 25px;
+	padding-left: 25px;
+	border-radius: 3px;
+	border-style: none;
+	border: 1px solid #bbb;
 }
 .input {
-	border: 1px solid #bfb8d1;
+	
 	font-size: 15px;
 	font-family: 'Open Sans', sans-serif;
 	border-radius: 100px;
